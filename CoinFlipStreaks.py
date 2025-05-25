@@ -1,4 +1,7 @@
 import random
+print("Name:Omkar")
+print("USN:1AY24AI079")
+print("Section:O")
 
 
 NUM_FLIPS = 10000
