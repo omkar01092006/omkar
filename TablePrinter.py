@@ -1,3 +1,6 @@
+print("Name:Omkar")
+print("USN:1AY24AI079")
+print("Section:O")
 def printTable(table):
 
     colWidths = [0] * len(table)
@@ -9,7 +12,7 @@ def printTable(table):
     for row in range(len(table[0])):
         for col in range(len(table)):
             print(table[col][row].rjust(colWidths[col]), end=' ')
-        print()  # Newline after each row
+        print() 
 
 
 tableData = [
