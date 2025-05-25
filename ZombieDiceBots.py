@@ -1,6 +1,8 @@
 import zombiedice
-import random
-
+import randomprint
+print("Name:Omkar")
+print("USN:1AY24AI079")
+print("Section:O")
 class RandomBot:
     def __init__(self, name):
         self.name = name
