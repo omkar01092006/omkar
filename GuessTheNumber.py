@@ -1,5 +1,8 @@
  GuessTheNumber.py
 import random
+print("Name:Omkar")
+print("USN:1AY24AI079")
+print("Section:O")
 
 def guess_the_number():
   
