@@ -1,3 +1,6 @@
+print("Name:Omkar")
+print("USN:1AY24AI079")
+print("Section:O")
 def displayInventory(inventory):
     print("Inventory:")
     item_total = 0
