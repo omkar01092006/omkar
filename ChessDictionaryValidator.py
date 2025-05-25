@@ -1,3 +1,6 @@
+print("Name:Omkar")
+print("USN:1AY24AI079")
+print("Section:O")
 def isValidChessBoard(board):
     piece_limits = {
         'pawn': 8,
