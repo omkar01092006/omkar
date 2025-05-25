@@ -9,7 +9,7 @@ WIDTH = 20
 HEIGHT = 10
 
 
-DELAY = 0.5  # seconds
+DELAY = 0.5 
 
 
 def create_grid():
