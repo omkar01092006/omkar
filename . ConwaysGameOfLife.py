@@ -1,7 +1,9 @@
 import time
 import os
 import copy
-
+print("Name:Omkar")
+print("USN:1AY24AI079")
+print("Section:O")
 
 WIDTH = 20
 HEIGHT = 10
