@@ -1,3 +1,6 @@
+print("Name:Omkar")
+print("USN:1AY24AI079")
+print("Section:O")
 def comma_code(items):
     if not items:
         return ''
